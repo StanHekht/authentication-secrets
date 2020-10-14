@@ -1,4 +1,4 @@
-# Application for sharing user secrets anonymously
+## Authentication-Secrets - Application for sharing user secrets anonymously
 
 ### Front End:
 HTML, CSS, Bootstrap, VanillaJS
